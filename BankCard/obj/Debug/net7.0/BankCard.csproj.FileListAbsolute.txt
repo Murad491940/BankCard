@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\BankCard\BankCard\bin\Debug\net7.0\BankCard.exe
+C:\Users\User\source\repos\BankCard\BankCard\bin\Debug\net7.0\BankCard.deps.json
+C:\Users\User\source\repos\BankCard\BankCard\bin\Debug\net7.0\BankCard.runtimeconfig.json
+C:\Users\User\source\repos\BankCard\BankCard\bin\Debug\net7.0\BankCard.dll
+C:\Users\User\source\repos\BankCard\BankCard\bin\Debug\net7.0\BankCard.pdb
+C:\Users\User\source\repos\BankCard\BankCard\obj\Debug\net7.0\BankCard.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BankCard\BankCard\obj\Debug\net7.0\BankCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BankCard\BankCard\obj\Debug\net7.0\BankCard.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BankCard\BankCard\obj\Debug\net7.0\BankCard.AssemblyInfo.cs
+C:\Users\User\source\repos\BankCard\BankCard\obj\Debug\net7.0\BankCard.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BankCard\BankCard\obj\Debug\net7.0\BankCard.dll
+C:\Users\User\source\repos\BankCard\BankCard\obj\Debug\net7.0\refint\BankCard.dll
+C:\Users\User\source\repos\BankCard\BankCard\obj\Debug\net7.0\BankCard.pdb
+C:\Users\User\source\repos\BankCard\BankCard\obj\Debug\net7.0\BankCard.genruntimeconfig.cache
+C:\Users\User\source\repos\BankCard\BankCard\obj\Debug\net7.0\ref\BankCard.dll
